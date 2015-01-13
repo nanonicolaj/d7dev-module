@@ -1,2 +1,2 @@
 # d7dev-module
-d7dev module CMS and Development environment
+d7dev module for CMS and Development environment class
